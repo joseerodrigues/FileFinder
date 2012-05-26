@@ -1,7 +1,7 @@
 FileFinder
 ==========
 
-Recursive find files.
+Helper for directory traversal.
 
 ### building
 
